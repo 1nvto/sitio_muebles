@@ -1,0 +1,12 @@
+.navbar-nav {
+    align-items: center;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+nav a{
+    font-family: sans-serif;
+}
+
+
